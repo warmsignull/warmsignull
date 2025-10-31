@@ -4,4 +4,4 @@ Hey there, I’m the person behind this minimal dark corner of the internet - ar
   - I break production only on Tuesdays (statistically speaking).
   - I keep code light, jokes dry, and tests… running eventually.
 
-  📬 Reach out if you want to collaborate, swap theme tweaks, or argue about tabs vs. spaces. (just kidding, it’s tabs)
+  Reach out if you want to collaborate, swap theme tweaks, or argue about tabs vs. spaces. (just kidding, it’s tabs)
