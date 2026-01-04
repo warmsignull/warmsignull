@@ -1,7 +1,7 @@
-Hey there, I’m the person behind this minimal dark corner of the internet - armed with a keyboard, a caffeine drip, and a suspicious obsession with clean typography.
+I build systems with code and an unreasonable attention to structure.
 
-  - I build things with code, coffee, and occasional wizardry.
-  - I break production only on Tuesdays (statistically speaking).
-  - I keep code light, jokes dry, and tests… running eventually.
+I aim for clean design, explicit tradeoffs, and tests that usually pass for the right reasons.
+Jokes are dry, abstractions are questioned, and “it works” is never the end of the discussion.
 
-  Reach out if you want to collaborate, swap theme tweaks, or argue about tabs vs. spaces. (just kidding, it’s tabs)
+Open to collaboration, thoughtful criticism, and the occasional argument about tabs vs. spaces.
+(it's tabs)
