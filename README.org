@@ -1,7 +1,1 @@
-I build systems with code and an unreasonable attention to structure.
 
-I aim for clean design, explicit tradeoffs, and tests that usually pass for the right reasons.
-Jokes are dry, abstractions are questioned, and “it works” is never the end of the discussion.
-
-Open to collaboration, thoughtful criticism, and the occasional argument about tabs vs. spaces.
-(it's tabs)
